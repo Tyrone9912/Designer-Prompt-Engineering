@@ -1,0 +1,85 @@
+{
+  "category_name": "technical",
+  "sfw_options": [
+    {
+      "id": "high_resolution",
+      "label": "High Resolution",
+      "tags": ["high res", "detailed", "sharp"],
+      "weight": 1.0,
+      "modifiers": ["8K", "ultra high resolution", "extremely detailed"]
+    },
+    {
+      "id": "professional_camera",
+      "label": "Professional Camera",
+      "tags": ["professional", "camera", "DSLR"],
+      "weight": 1.0,
+      "modifiers": ["shot with professional camera", "DSLR quality", "camera perfection"]
+    },
+    {
+      "id": "shallow_dof",
+      "label": "Shallow Depth of Field",
+      "tags": ["shallow DOF", "bokeh", "focus"],
+      "weight": 1.0,
+      "modifiers": ["shallow depth of field", "beautiful bokeh", "selective focus"]
+    },
+    {
+      "id": "wide_angle",
+      "label": "Wide Angle Lens",
+      "tags": ["wide angle", "expansive", "lens"],
+      "weight": 1.0,
+      "modifiers": ["wide angle lens", "expansive view", "distortion-free"]
+    },
+    {
+      "id": "macro_lens",
+      "label": "Macro Lens",
+      "tags": ["macro", "close-up", "detailed"],
+      "weight": 1.0,
+      "modifiers": ["macro photography", "extreme close-up", "incredible detail"]
+    },
+    {
+      "id": "telephoto",
+      "label": "Telephoto Lens",
+      "tags": ["telephoto", "compressed", "distant"],
+      "weight": 1.0,
+      "modifiers": ["telephoto lens", "compressed perspective", "distant subject"]
+    },
+    {
+      "id": "hdr",
+      "label": "HDR",
+      "tags": ["HDR", "dynamic range", "balanced"],
+      "weight": 1.0,
+      "modifiers": ["HDR", "high dynamic range", "perfectly exposed"]
+    },
+    {
+      "id": "long_exposure",
+      "label": "Long Exposure",
+      "tags": ["long exposure", "motion blur", "time"],
+      "weight": 1.0,
+      "modifiers": ["long exposure", "motion blur", "time-lapse effect"]
+    },
+    {
+      "id": "film_grain",
+      "label": "Film Grain",
+      "tags": ["film", "grain", "analog"],
+      "weight": 1.0,
+      "modifiers": ["film grain", "analog photography", "vintage film"]
+    },
+    {
+      "id": "perfect_focus",
+      "label": "Perfect Focus",
+      "tags": ["sharp", "focus", "crisp"],
+      "weight": 1.0,
+      "modifiers": ["tack sharp", "perfect focus", "crystal clear"]
+    }
+  ],
+  "nsfw_options": [
+    {
+      "id": "artistic_quality",
+      "label": "Artistic Quality",
+      "tags": ["artistic", "quality", "professional"],
+      "weight": 1.0,
+      "modifiers": ["artistic quality", "professional grade", "gallery worthy"]
+    }
+  ],
+  "common_modifiers": ["masterpiece", "best quality", "ultra detailed", "professional grade", "award winning"]
+}

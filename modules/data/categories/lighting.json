@@ -1,0 +1,85 @@
+{
+  "category_name": "lighting",
+  "sfw_options": [
+    {
+      "id": "natural_daylight",
+      "label": "Natural Daylight",
+      "tags": ["natural", "daylight", "sun"],
+      "weight": 1.0,
+      "modifiers": ["natural lighting", "daylight", "well lit"]
+    },
+    {
+      "id": "golden_hour",
+      "label": "Golden Hour",
+      "tags": ["golden hour", "warm", "sunset"],
+      "weight": 1.0,
+      "modifiers": ["golden hour lighting", "warm light", "magical hour"]
+    },
+    {
+      "id": "blue_hour",
+      "label": "Blue Hour",
+      "tags": ["blue hour", "twilight", "evening"],
+      "weight": 1.0,
+      "modifiers": ["blue hour", "twilight lighting", "evening atmosphere"]
+    },
+    {
+      "id": "studio_lighting",
+      "label": "Studio Lighting",
+      "tags": ["studio", "professional", "controlled"],
+      "weight": 1.0,
+      "modifiers": ["studio lighting", "professional lighting", "well lit"]
+    },
+    {
+      "id": "soft_diffused",
+      "label": "Soft Diffused",
+      "tags": ["soft", "diffused", "gentle"],
+      "weight": 1.0,
+      "modifiers": ["soft lighting", "diffused light", "gentle illumination"]
+    },
+    {
+      "id": "dramatic_contrast",
+      "label": "Dramatic Contrast",
+      "tags": ["dramatic", "contrast", "shadows"],
+      "weight": 1.0,
+      "modifiers": ["dramatic lighting", "high contrast", "strong shadows"]
+    },
+    {
+      "id": "backlighting",
+      "label": "Backlighting",
+      "tags": ["backlit", "silhouette", "rim light"],
+      "weight": 1.0,
+      "modifiers": ["backlighting", "rim lighting", "silhouette effect"]
+    },
+    {
+      "id": "candlelight",
+      "label": "Candlelight",
+      "tags": ["candle", "warm", "intimate"],
+      "weight": 1.0,
+      "modifiers": ["candlelight", "warm glow", "intimate lighting"]
+    },
+    {
+      "id": "neon_lights",
+      "label": "Neon Lights",
+      "tags": ["neon", "colorful", "electric"],
+      "weight": 1.0,
+      "modifiers": ["neon lighting", "colorful lights", "electric glow"]
+    },
+    {
+      "id": "moonlight",
+      "label": "Moonlight",
+      "tags": ["moon", "night", "silver"],
+      "weight": 1.0,
+      "modifiers": ["moonlight", "night lighting", "silver glow"]
+    }
+  ],
+  "nsfw_options": [
+    {
+      "id": "intimate_lighting",
+      "label": "Intimate Lighting",
+      "tags": ["intimate", "mood", "romantic"],
+      "weight": 1.0,
+      "modifiers": ["intimate lighting", "mood lighting", "romantic atmosphere"]
+    }
+  ],
+  "common_modifiers": ["beautiful lighting", "atmospheric", "cinematic lighting", "professional"]
+}

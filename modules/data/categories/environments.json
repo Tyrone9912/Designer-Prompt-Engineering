@@ -1,0 +1,85 @@
+{
+  "category_name": "environments",
+  "sfw_options": [
+    {
+      "id": "studio",
+      "label": "Studio Setting",
+      "tags": ["studio", "professional", "controlled"],
+      "weight": 1.0,
+      "modifiers": ["studio lighting", "professional setup", "clean background"]
+    },
+    {
+      "id": "outdoor_nature",
+      "label": "Outdoor Nature",
+      "tags": ["outdoor", "nature", "natural"],
+      "weight": 1.0,
+      "modifiers": ["natural environment", "outdoor setting", "beautiful landscape"]
+    },
+    {
+      "id": "urban_city",
+      "label": "Urban/City",
+      "tags": ["urban", "city", "modern"],
+      "weight": 1.0,
+      "modifiers": ["urban environment", "city backdrop", "modern setting"]
+    },
+    {
+      "id": "indoor_home",
+      "label": "Indoor/Home",
+      "tags": ["indoor", "home", "interior"],
+      "weight": 1.0,
+      "modifiers": ["indoor setting", "home environment", "cozy interior"]
+    },
+    {
+      "id": "fantasy_world",
+      "label": "Fantasy World",
+      "tags": ["fantasy", "magical", "otherworldly"],
+      "weight": 1.0,
+      "modifiers": ["fantasy environment", "magical world", "otherworldly setting"]
+    },
+    {
+      "id": "sci_fi",
+      "label": "Sci-Fi Environment",
+      "tags": ["sci-fi", "futuristic", "technology"],
+      "weight": 1.0,
+      "modifiers": ["sci-fi environment", "futuristic setting", "high tech"]
+    },
+    {
+      "id": "historical",
+      "label": "Historical Setting",
+      "tags": ["historical", "period", "vintage"],
+      "weight": 1.0,
+      "modifiers": ["historical setting", "period environment", "vintage atmosphere"]
+    },
+    {
+      "id": "beach_ocean",
+      "label": "Beach/Ocean",
+      "tags": ["beach", "ocean", "water"],
+      "weight": 1.0,
+      "modifiers": ["beach setting", "ocean view", "coastal environment"]
+    },
+    {
+      "id": "mountain_forest",
+      "label": "Mountain/Forest",
+      "tags": ["mountain", "forest", "wilderness"],
+      "weight": 1.0,
+      "modifiers": ["mountain setting", "forest environment", "wilderness"]
+    },
+    {
+      "id": "desert",
+      "label": "Desert",
+      "tags": ["desert", "arid", "sand"],
+      "weight": 1.0,
+      "modifiers": ["desert environment", "arid landscape", "sand dunes"]
+    }
+  ],
+  "nsfw_options": [
+    {
+      "id": "private_setting",
+      "label": "Private Setting",
+      "tags": ["private", "intimate", "secluded"],
+      "weight": 1.0,
+      "modifiers": ["private setting", "intimate environment", "secluded"]
+    }
+  ],
+  "common_modifiers": ["atmospheric", "immersive", "detailed environment", "realistic setting"]
+}
