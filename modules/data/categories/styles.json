@@ -1,0 +1,85 @@
+{
+  "category_name": "styles",
+  "sfw_options": [
+    {
+      "id": "photorealistic",
+      "label": "Photorealistic",
+      "tags": ["photo", "realistic", "lifelike"],
+      "weight": 1.0,
+      "modifiers": ["ultra realistic", "high resolution", "sharp focus"]
+    },
+    {
+      "id": "digital_art",
+      "label": "Digital Art",
+      "tags": ["digital", "art", "modern"],
+      "weight": 1.0,
+      "modifiers": ["digital painting", "concept art", "detailed"]
+    },
+    {
+      "id": "oil_painting",
+      "label": "Oil Painting",
+      "tags": ["oil", "painting", "traditional"],
+      "weight": 1.0,
+      "modifiers": ["oil on canvas", "brushstrokes", "classical"]
+    },
+    {
+      "id": "watercolor",
+      "label": "Watercolor",
+      "tags": ["watercolor", "painting", "soft"],
+      "weight": 1.0,
+      "modifiers": ["watercolor painting", "soft colors", "flowing"]
+    },
+    {
+      "id": "pencil_sketch",
+      "label": "Pencil Sketch",
+      "tags": ["pencil", "sketch", "drawing"],
+      "weight": 1.0,
+      "modifiers": ["pencil drawing", "sketch", "detailed linework"]
+    },
+    {
+      "id": "anime_manga",
+      "label": "Anime/Manga Style",
+      "tags": ["anime", "manga", "japanese"],
+      "weight": 1.0,
+      "modifiers": ["anime style", "manga art", "cel shading"]
+    },
+    {
+      "id": "cartoon",
+      "label": "Cartoon Style",
+      "tags": ["cartoon", "animated", "stylized"],
+      "weight": 1.0,
+      "modifiers": ["cartoon style", "animated", "colorful"]
+    },
+    {
+      "id": "impressionist",
+      "label": "Impressionist",
+      "tags": ["impressionist", "classical", "artistic"],
+      "weight": 1.0,
+      "modifiers": ["impressionist style", "soft brushstrokes", "atmospheric"]
+    },
+    {
+      "id": "cyberpunk",
+      "label": "Cyberpunk",
+      "tags": ["cyberpunk", "futuristic", "neon"],
+      "weight": 1.0,
+      "modifiers": ["cyberpunk style", "neon lights", "futuristic"]
+    },
+    {
+      "id": "steampunk",
+      "label": "Steampunk",
+      "tags": ["steampunk", "victorian", "mechanical"],
+      "weight": 1.0,
+      "modifiers": ["steampunk style", "brass and copper", "mechanical"]
+    }
+  ],
+  "nsfw_options": [
+    {
+      "id": "artistic_nude",
+      "label": "Artistic Nude Style",
+      "tags": ["artistic", "nude", "classical"],
+      "weight": 1.0,
+      "modifiers": ["artistic nude", "classical style", "tasteful"]
+    }
+  ],
+  "common_modifiers": ["high quality", "masterpiece", "detailed", "professional", "award winning"]
+}

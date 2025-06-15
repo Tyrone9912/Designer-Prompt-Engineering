@@ -1,0 +1,78 @@
+{
+  "category_name": "subjects",
+  "sfw_options": [
+    {
+      "id": "person_portrait",
+      "label": "Portrait of a person",
+      "tags": ["person", "portrait", "face"],
+      "weight": 1.0,
+      "modifiers": ["detailed", "realistic", "professional"]
+    },
+    {
+      "id": "person_full_body",
+      "label": "Full body person",
+      "tags": ["person", "full body", "standing"],
+      "weight": 1.0,
+      "modifiers": ["detailed", "realistic"]
+    },
+    {
+      "id": "animal_domestic",
+      "label": "Domestic animal",
+      "tags": ["animal", "pet", "domestic"],
+      "weight": 1.0,
+      "modifiers": ["cute", "detailed", "realistic"]
+    },
+    {
+      "id": "animal_wild",
+      "label": "Wild animal",
+      "tags": ["animal", "wild", "nature"],
+      "weight": 1.0,
+      "modifiers": ["majestic", "detailed", "realistic"]
+    },
+    {
+      "id": "landscape",
+      "label": "Landscape scene",
+      "tags": ["landscape", "nature", "scenery"],
+      "weight": 1.0,
+      "modifiers": ["beautiful", "detailed", "panoramic"]
+    },
+    {
+      "id": "object_still_life",
+      "label": "Still life object",
+      "tags": ["object", "still life", "item"],
+      "weight": 1.0,
+      "modifiers": ["detailed", "realistic", "elegant"]
+    },
+    {
+      "id": "architecture",
+      "label": "Building or architecture",
+      "tags": ["building", "architecture", "structure"],
+      "weight": 1.0,
+      "modifiers": ["detailed", "impressive", "architectural"]
+    },
+    {
+      "id": "fantasy_creature",
+      "label": "Fantasy creature",
+      "tags": ["fantasy", "creature", "mythical"],
+      "weight": 1.0,
+      "modifiers": ["magical", "detailed", "fantastical"]
+    }
+  ],
+  "nsfw_options": [
+    {
+      "id": "adult_portrait",
+      "label": "Adult portrait (artistic)",
+      "tags": ["adult", "portrait", "artistic"],
+      "weight": 1.0,
+      "modifiers": ["artistic", "tasteful", "detailed"]
+    },
+    {
+      "id": "figure_study",
+      "label": "Figure study (artistic)",
+      "tags": ["figure", "study", "artistic"],
+      "weight": 1.0,
+      "modifiers": ["artistic", "classical", "detailed"]
+    }
+  ],
+  "common_modifiers": ["high quality", "detailed", "professional", "masterpiece", "best quality"]
+}

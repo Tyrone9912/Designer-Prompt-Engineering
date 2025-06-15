@@ -1,0 +1,85 @@
+{
+  "category_name": "compositions",
+  "sfw_options": [
+    {
+      "id": "close_up",
+      "label": "Close-up",
+      "tags": ["close-up", "detailed", "intimate"],
+      "weight": 1.0,
+      "modifiers": ["close-up shot", "detailed view", "sharp focus"]
+    },
+    {
+      "id": "medium_shot",
+      "label": "Medium Shot",
+      "tags": ["medium", "balanced", "standard"],
+      "weight": 1.0,
+      "modifiers": ["medium shot", "balanced composition", "well framed"]
+    },
+    {
+      "id": "full_body",
+      "label": "Full Body",
+      "tags": ["full body", "complete", "standing"],
+      "weight": 1.0,
+      "modifiers": ["full body shot", "complete view", "well proportioned"]
+    },
+    {
+      "id": "wide_shot",
+      "label": "Wide Shot",
+      "tags": ["wide", "panoramic", "expansive"],
+      "weight": 1.0,
+      "modifiers": ["wide shot", "panoramic view", "expansive"]
+    },
+    {
+      "id": "bird_eye_view",
+      "label": "Bird's Eye View",
+      "tags": ["aerial", "top down", "overview"],
+      "weight": 1.0,
+      "modifiers": ["bird's eye view", "aerial perspective", "top down"]
+    },
+    {
+      "id": "worm_eye_view",
+      "label": "Worm's Eye View",
+      "tags": ["low angle", "dramatic", "upward"],
+      "weight": 1.0,
+      "modifiers": ["worm's eye view", "low angle", "dramatic perspective"]
+    },
+    {
+      "id": "rule_of_thirds",
+      "label": "Rule of Thirds",
+      "tags": ["composition", "balanced", "artistic"],
+      "weight": 1.0,
+      "modifiers": ["rule of thirds", "balanced composition", "artistic framing"]
+    },
+    {
+      "id": "centered",
+      "label": "Centered Composition",
+      "tags": ["centered", "symmetrical", "balanced"],
+      "weight": 1.0,
+      "modifiers": ["centered composition", "symmetrical", "balanced"]
+    },
+    {
+      "id": "diagonal",
+      "label": "Diagonal Composition",
+      "tags": ["diagonal", "dynamic", "movement"],
+      "weight": 1.0,
+      "modifiers": ["diagonal composition", "dynamic angle", "movement"]
+    },
+    {
+      "id": "golden_ratio",
+      "label": "Golden Ratio",
+      "tags": ["golden ratio", "mathematical", "perfect"],
+      "weight": 1.0,
+      "modifiers": ["golden ratio", "perfect composition", "mathematical beauty"]
+    }
+  ],
+  "nsfw_options": [
+    {
+      "id": "artistic_pose",
+      "label": "Artistic Pose",
+      "tags": ["artistic", "pose", "classical"],
+      "weight": 1.0,
+      "modifiers": ["artistic pose", "classical composition", "tasteful"]
+    }
+  ],
+  "common_modifiers": ["well composed", "balanced", "professional framing", "artistic composition"]
+}
